@@ -5,7 +5,7 @@ I'm a professional software engineer and active computer science researcher.
 
 👨‍🎓 I have a bachelor's in computer information systems and a master's in software engineering
 
-:school: I'm an incoming Computer Science PhD student at the University of Nebraska - Lincoln
+:school: I'm an incoming computer science PhD student at the University of Nebraska - Lincoln
 
 :microscope: I do research on software architecture, testing, and development methodologies
 
@@ -15,7 +15,7 @@ I'm a professional software engineer and active computer science researcher.
 * :mag_right: Reproducibility in software engineering research
 * :lock: The role of software engineering in healthcare information systems
 
-📖 I'm writing a book about Python with No Startch Press (publishers fo _Automate the Boring Stuff with Python_
+📖 I'm writing a book about Python with No Startch Press (publishers fo _Automate the Boring Stuff with Python_)
 
 ### Contact me
 You can email me at erik [at] erikwhiting [dot] com
