@@ -3,6 +3,8 @@ I'm a professional software engineer and active computer science researcher.
 
 :briefcase: I write Ruby on Rails (and an ocassional line of Angular JS) for a SaaS company
 
+👨‍🎓 I have a bachelor's in computer information systems and a master's in software engineering
+
 :school: I'm an incoming Computer Science PhD student at the University of Nebraska - Lincoln
 
 :microscope: I do research on software architecture, testing, and development methodologies
