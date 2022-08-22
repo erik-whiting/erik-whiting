@@ -5,7 +5,7 @@ I'm a professional software engineer and active computer science researcher.
 
 👨‍🎓 I have a bachelor's in computer information systems and a master's in software engineering
 
-:school: I'm an incoming computer science PhD student at the University of Nebraska - Lincoln
+:school: I'm a computer science PhD student at the University of Nebraska - Lincoln
 
 :microscope: I do research on software architecture, testing, and development methodologies
 
