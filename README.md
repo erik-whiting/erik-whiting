@@ -7,13 +7,9 @@ I'm a professional software engineer and active computer science researcher.
 
 :school: I'm a computer science PhD student at the University of Nebraska - Lincoln
 
-:microscope: I do research on software architecture, testing, and development methodologies
+:microscope: I am a new member of the [Yesselman Lab](https://yesselmanlab.com/) doing computational biophysics
 
 :blue_book: I love learning about networking, scientific computing, operating systems, and bioinformatics
-
-:construction_worker: I am working on two main projects right now
-* :mag_right: Reproducibility in software engineering research
-* :lock: The role of software engineering in healthcare information systems
 
 📖 I'm writing a book about Python with No Startch Press (publishers fo _Automate the Boring Stuff with Python_)
 
