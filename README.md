@@ -5,7 +5,7 @@ I'm a professional software engineer and active computer science researcher.
 
 :microscope: I am a member of the [Yesselman Lab](https://yesselmanlab.com/) doing computational biophysics
 
-👨‍🎓 I have a bachelor's in computer information systems and a master's in software engineering. My thesis was about performance testing in Agile
+👨‍🎓 I have a BS in computer information systems and an MS in software engineering. My thesis was about performance testing in Agile
 
 :briefcase: I write Ruby on Rails (and an ocassional line of Angular JS) for a SaaS company
 
