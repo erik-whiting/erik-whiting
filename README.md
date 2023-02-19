@@ -9,7 +9,6 @@ I'm a professional software engineer and active computer science researcher.
 
 :briefcase: I write Ruby on Rails (and an ocassional line of Angular JS) for a SaaS company
 
-📖 I'm writing a book about Python with No Startch Press (publishers fo _Automate the Boring Stuff with Python_)
 
 ### Contact me
 You can email me at erik [at] erikwhiting [dot] com
