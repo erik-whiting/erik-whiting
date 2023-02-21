@@ -7,7 +7,7 @@ I'm a professional software engineer and active computer science researcher.
 
 👨‍🎓 I have a BS in computer information systems and an MS in software engineering. My thesis was about performance testing in Agile
 
-:briefcase: I write Ruby on Rails (and an ocassional line of Angular JS) for a SaaS company
+:briefcase: I write Ruby on Rails (and an ocassional line of Angular JS) for a SaaS company called [CallRail](https://www.callrail.com/)
 
 
 ### Contact me
