@@ -1,13 +1,15 @@
 ## Hi, I'm Erik!
-I'm a professional software engineer and active computer science researcher.
+I'm a professional software engineer and computer science researcher.
 
-:school: I'm a computer science PhD student at the University of Nebraska - Lincoln
+:school: I'm a CS PhD student at the University of Nebraska - Lincoln
 
-:microscope: I am a member of the [Yesselman Lab](https://yesselmanlab.com/) doing computational biophysics
+:microscope: I am a member of the [Yesselman Lab](https://yesselmanlab.com/) where I employ software engineering techniques to explore problems in biophysics
 
-👨‍🎓 I have a BS in computer information systems and an MS in software engineering. My thesis was about performance testing in Agile
+🧬 I'm also a member of the [Integrated Digital Omics Lab](https://cse.unl.edu/~qyao/) where I study deep learning and its impact on bioinformatics
 
-:briefcase: I write Ruby on Rails (and an ocassional line of Angular JS) for a SaaS company called [CallRail](https://www.callrail.com/)
+👨‍🎓 I have a BS in computer information systems and an MS in software engineering. My thesis was about performance testing and, if you're bored, you can check out [my thesis presentation](https://youtu.be/5YoMYwyvDLw)
+
+:briefcase: I build software for a SaaS company called [CallRail](https://www.callrail.com/) with Ruby on Rails, Angular, NestJS, Docker, and Kubernetes
 
 
 ### Contact me
