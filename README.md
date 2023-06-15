@@ -3,9 +3,9 @@ I'm a professional software engineer and computer science researcher.
 
 :school: I'm a CS PhD student at the University of Nebraska - Lincoln
 
-:microscope: I am a member of the [Yesselman Lab](https://yesselmanlab.com/) where I employ software engineering techniques to explore problems in biophysics
+:microscope: I'm a member of the [Yesselman Lab](https://yesselmanlab.com/) where I use software engineering to explore problems in biophysics
 
-🧬 I'm also a member of the [Integrated Digital Omics Lab](https://cse.unl.edu/~qyao/) where I study deep learning and its impact on bioinformatics
+🧬 I'm also a member of the [Integrated Digital Omics Lab](https://cse.unl.edu/~qyao/) where I study deep learning applications in bioinformatics
 
 👨‍🎓 I have a BS in computer information systems and an MS in software engineering. My thesis was about performance testing 
 
