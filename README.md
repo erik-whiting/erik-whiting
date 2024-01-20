@@ -11,7 +11,7 @@ I'm a professional software engineer and computer science researcher.
 
 👨‍🎓 I have a BS in computer information systems and an MS in software engineering. [My thesis](https://uhcl-ir.tdl.org/items/71ae039a-7f60-43db-963f-4f08b6fee5a6) was about performance testing 
 
-👨‍🏫 I teach undergraduate programming courses at [Metropolitan Community College]([url](https://www.mccneb.edu/)
+👨‍🏫 I teach undergraduate programming courses at [Metropolitan Community College](https://www.mccneb.edu/)
 
 🤼 When I'm not writing code, doing science, or teaching, I like to practice the grappling martial arts. I mainly do Judo but I've trained BJJ and wrestling as well
 
