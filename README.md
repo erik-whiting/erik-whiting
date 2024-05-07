@@ -1,7 +1,7 @@
 ## Hi, I'm Erik!
 I'm a professional software engineer and computer science researcher.
 
-:briefcase: I build software for a SaaS company called [CallRail](https://www.callrail.com/) with Ruby on Rails, Angular, NestJS, Docker, and Kubernetes
+:briefcase: I build software for a SaaS company called [CallRail](https://www.callrail.com/) with Ruby on Rails, Angular, Docker, and Kubernetes
 
 :school: I'm a CS PhD student at the University of Nebraska - Lincoln
 
